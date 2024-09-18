@@ -1,4 +1,4 @@
-# RNN-Based-Custom-Keyword-Detection>
+# RNN-Based-Custom-Keyword-Detection
 
 Developed an RNN-based custom keyword detection system using Python, TensorFlow, and Keras. Leveraged
 MFCCs for feature extraction from audio signals and employed a Bidirectional LSTM model to capture temporal
